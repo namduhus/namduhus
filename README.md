@@ -1,5 +1,5 @@
 ## 남두현 - Nam Du Hyeon [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnamduhus%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<p>[풀스택 개발 및 DevOps에 관심을 가지고 공부하며 팀 협업 프로젝트를 선호하는 개발자 입니다]</p>
+<p>[풀스택 개발 및 DevOps에 관심을 가지고 공부하며 팀 협업 프로젝트를 선호하는 개발자 입니다.]</p>
 <p>[백엔드 개발과 인프라를 사용하는 엔지니어를 고객으로 생각하는 개발자 입니다.]</p>
 
 <div align=center>
